@@ -1,6 +1,7 @@
 {
-  "version": 0.1,
+  "version": 0.2,
   "bins": {
-    "65249710": "pnb-imperial"
+    "65249710": "pnb-imperial",
+    "41477240": "indusind-tiger"
   }
 }
