@@ -1,0 +1,287 @@
+{
+  "id": "pnb-imperial",
+  "name": "RuPay Imperial",
+  "bank": "Punjab National Bank",
+  "cardType": "RuPay Select",
+  "cardCategory": "Debit",
+  "color": "#0d47a1",
+  "bgColor": "#e3f2fd",
+  "accentColor": "#1565c0",
+  "sections": ["Quarterly", "Half-Yearly", "Yearly", "Always Active"],
+  "benefits": [
+    {
+      "id": "q1",
+      "section": "Quarterly",
+      "frequency": "Quarterly",
+      "name": "Domestic Airport Lounge",
+      "value": "1 visit",
+      "details": "Any participating domestic airport lounge",
+      "howToRedeem": [
+        "Visit any participating domestic airport lounge listed on the RuPay Select portal (rupay.co.in).",
+        "Present your PNB RuPay card at the lounge reception desk.",
+        "An amount of ₹2 will be authorized on your card for entry validation — this is not a charge.",
+        "Enjoy the lounge. No further payment required for your complimentary visit."
+      ],
+      "termsAndConditions": [
+        "Maximum 2 complimentary domestic lounge visits per calendar quarter per card.",
+        "Unused visits do not carry over to the next quarter.",
+        "Valid only at participating lounges listed on rupay.co.in. Access subject to lounge capacity at the time of visit.",
+        "Additional visits beyond the free quota will be charged at prevailing lounge rates."
+      ],
+      "redeemUrl": "https://rupay.co.in"
+    },
+    {
+      "id": "q2",
+      "section": "Quarterly",
+      "frequency": "Quarterly",
+      "name": "International Airport Lounge",
+      "value": "1 visit",
+      "details": "Any participating international airport lounge",
+      "howToRedeem": [
+        "Visit any participating international airport lounge listed on the RuPay Select portal (rupay.co.in).",
+        "Present your PNB RuPay card at the lounge reception desk.",
+        "An amount of ₹2 will be authorized on your card for entry validation — this is not a charge.",
+        "Enjoy the lounge. No further payment required for your complimentary visit."
+      ],
+      "termsAndConditions": [
+        "1 complimentary international lounge visit per calendar quarter per card.",
+        "Unused visits do not carry over to the next quarter.",
+        "Valid only at participating international lounges listed on rupay.co.in. Subject to lounge capacity.",
+        "Guest charges and additional visits beyond the free quota will be billed at standard lounge rates."
+      ],
+      "redeemUrl": "https://rupay.co.in"
+    },
+    {
+      "id": "q3",
+      "section": "Quarterly",
+      "frequency": "Quarterly",
+      "name": "Apollo Pharmacy Voucher",
+      "value": "₹250",
+      "details": "Voucher redeemable at Apollo Pharmacy",
+      "redeemUrl": "https://apollopharmacy.in"
+    },
+    {
+      "id": "q4",
+      "section": "Quarterly",
+      "frequency": "Quarterly",
+      "name": "Gym – Cult Live (Cult.fit)",
+      "value": "90 days",
+      "details": "Home workout membership via Cult Live",
+      "redeemUrl": "https://cult.fit"
+    },
+    {
+      "id": "q5",
+      "section": "Quarterly",
+      "frequency": "Quarterly",
+      "name": "Golf – Golftripz",
+      "value": "1 round/lesson",
+      "details": "1 complementary golf lesson or round",
+      "howToRedeem": [
+        "Log in to the RuPay Select portal at rupay.co.in with your registered card details.",
+        "Click \"Redeem\" under the Golf benefit and complete a ₹1 payment via the CCAvenue gateway.",
+        "Enter the OTP sent to your registered mobile number. You will receive an Order ID by email.",
+        "Within 48 hours, booking instructions and your voucher will arrive by email. Contact rupay@golftripz.com to coordinate your tee time or lesson."
+      ],
+      "termsAndConditions": [
+        "1 complimentary golf lesson or round per calendar quarter per cardholder.",
+        "Advance booking required via the Golftripz portal. Subject to course and slot availability.",
+        "Includes green fees or lesson fee and pro charges. Caddy, golf cart, or equipment rental are charged separately.",
+        "Unused quarterly entitlements do not carry forward to the next quarter."
+      ],
+      "redeemUrl": "https://rupay.co.in"
+    },
+    {
+      "id": "q6",
+      "section": "Quarterly",
+      "frequency": "Quarterly",
+      "name": "Blinkit Voucher",
+      "value": "₹250",
+      "details": "Grocery delivery voucher",
+      "redeemUrl": "https://blinkit.com"
+    },
+    {
+      "id": "q7",
+      "section": "Quarterly",
+      "frequency": "Quarterly",
+      "name": "BookMyShow Voucher",
+      "value": "₹250",
+      "details": "Movies & events voucher",
+      "redeemUrl": "https://in.bookmyshow.com"
+    },
+    {
+      "id": "q8",
+      "section": "Quarterly",
+      "frequency": "Quarterly",
+      "name": "Decathlon Voucher",
+      "value": "₹500",
+      "details": "Sports equipment voucher",
+      "redeemUrl": "https://decathlon.in"
+    },
+    {
+      "id": "q9",
+      "section": "Quarterly",
+      "frequency": "Quarterly",
+      "name": "Reliance Digital Voucher",
+      "value": "₹500",
+      "details": "Electronics & appliances voucher",
+      "redeemUrl": "https://reliancedigital.in"
+    },
+    {
+      "id": "q10",
+      "section": "Quarterly",
+      "frequency": "Quarterly",
+      "name": "Myntra Voucher",
+      "value": "₹500",
+      "details": "Fashion shopping voucher",
+      "redeemUrl": "https://myntra.com"
+    },
+    {
+      "id": "h1",
+      "section": "Half-Yearly",
+      "frequency": "Half-Yearly",
+      "name": "SPA / Salon Service",
+      "value": "1 session",
+      "details": "Four Fountains · Kairali · Aroma Thai · O2 · Lakme",
+      "howToRedeem": [
+        "Log in to the RuPay Select portal at rupay.co.in with your registered card details.",
+        "Click \"Redeem\" under the Spa / Salon benefit and complete a ₹1 payment via CCAvenue.",
+        "Enter the OTP sent to your registered mobile number. Note your Order ID.",
+        "Email rupay@golftripz.com with your Order ID, preferred wellness partner, date/time, city, and contact details to confirm your appointment."
+      ],
+      "termsAndConditions": [
+        "1 complimentary spa or salon session per benefit period (half-year) per cardholder.",
+        "Valid at participating wellness partners listed on the RuPay Select portal only.",
+        "Session must be pre-booked at least 24–48 hours in advance. Subject to slot availability.",
+        "Benefit is non-transferable and cannot be encashed, gifted, or exchanged for other services."
+      ],
+      "redeemUrl": "https://rupay.co.in"
+    },
+    {
+      "id": "h2",
+      "section": "Half-Yearly",
+      "frequency": "Half-Yearly",
+      "name": "Kalyan Jewellers Voucher",
+      "value": "₹2,000",
+      "details": "Jewellery voucher",
+      "redeemUrl": "https://kalyanjewellers.net"
+    },
+    {
+      "id": "y1",
+      "section": "Yearly",
+      "frequency": "Yearly",
+      "name": "OTT Subscription",
+      "value": "1 year",
+      "details": "Amazon Prime OR Disney+ Hotstar OR SonyLiv — choose one",
+      "howToRedeem": [
+        "Log in to the RuPay Select portal at rupay.co.in with your registered card details.",
+        "Click \"Redeem\" under the OTT Subscription benefit.",
+        "Choose one platform: Amazon Prime, Disney+ Hotstar, or SonyLiv — this choice is final.",
+        "Complete a ₹1 payment via CCAvenue and enter the OTP. Your subscription activation code will arrive by email within 48 hours."
+      ],
+      "termsAndConditions": [
+        "Only one OTT platform can be selected per calendar year — the choice cannot be changed.",
+        "Limited to 1 complimentary annual subscription per cardholder per year.",
+        "Unused benefit cannot be carried forward to the next calendar year.",
+        "Subscription code must be activated within 30 days of receipt; expired codes cannot be reissued."
+      ],
+      "redeemUrl": "https://rupay.co.in"
+    },
+    {
+      "id": "y2",
+      "section": "Yearly",
+      "frequency": "Yearly",
+      "name": "Medical Check-up",
+      "value": "1 check-up",
+      "details": "Partner diagnostic centres via RuPay Select",
+      "howToRedeem": [
+        "Log in to the RuPay Select portal at rupay.co.in with your registered card details.",
+        "Click \"Redeem\" under the Medical Check-up benefit and complete a ₹1 CCAvenue payment.",
+        "Enter the OTP to receive your Order ID by email.",
+        "Email rupay@golftripz.com with your Order ID, full name, age, mobile number, email, city, and preferred date/time. Appointment confirmed within 48 hours."
+      ],
+      "termsAndConditions": [
+        "1 complimentary health check-up per calendar year per cardholder.",
+        "Valid at partner diagnostic centres coordinated via the RuPay Select / Golftripz portal.",
+        "Home visit available in select cities; centre visit in others. Subject to slot availability.",
+        "The standard check-up package is fixed and cannot be customised, exchanged, or encashed."
+      ],
+      "redeemUrl": "https://rupay.co.in"
+    },
+    {
+      "id": "y3",
+      "section": "Yearly",
+      "frequency": "Yearly",
+      "name": "Swiggy One Membership",
+      "value": "3 months free",
+      "details": "Once per calendar year",
+      "redeemUrl": "https://swiggy.com"
+    },
+    {
+      "id": "y4",
+      "section": "Yearly",
+      "frequency": "Yearly",
+      "name": "Gaana Subscription",
+      "value": "1 year",
+      "details": "Annual music streaming membership",
+      "redeemUrl": "https://gaana.com"
+    },
+    {
+      "id": "y5",
+      "section": "Yearly",
+      "frequency": "Yearly",
+      "name": "MakeMyTrip Discount",
+      "value": "10% (max ₹1,500)",
+      "details": "10% off on one booking per calendar year",
+      "redeemUrl": "https://makemytrip.com"
+    },
+    {
+      "id": "y6",
+      "section": "Yearly",
+      "frequency": "Yearly",
+      "name": "ClearTax Voucher",
+      "value": "₹2,500",
+      "details": "Assisted tax filing",
+      "redeemUrl": "https://cleartax.in"
+    },
+    {
+      "id": "a1",
+      "section": "Always Active",
+      "frequency": "Always Active",
+      "name": "Personal Accident Insurance",
+      "value": "₹10 Lakh",
+      "details": "PTD or Accidental Death · T&C apply",
+      "howToRedeem": [
+        "Ensure your PNB RuPay card was used for at least one transaction within 30 days before the incident.",
+        "In the event of accidental death or permanent total disability, notify PNB or the NPCI insurance helpline promptly.",
+        "Submit the claim form along with required documents: FIR copy, medical reports, death certificate (if applicable), and card transaction proof.",
+        "The insurance team will review and process the claim within the prescribed timeline."
+      ],
+      "termsAndConditions": [
+        "Cover of ₹10 lakh applies for accidental death or permanent total disability (PTD) only.",
+        "Card must have been used for at least one valid RuPay transaction within 30 days prior to the incident.",
+        "Claim must be filed within 30 days of the incident. Pre-existing conditions and self-inflicted injuries are excluded.",
+        "Coverage is valid only while the card account is active and in good standing with PNB."
+      ]
+    },
+    {
+      "id": "a2",
+      "section": "Always Active",
+      "frequency": "Always Active",
+      "name": "Concierge Services",
+      "value": "24 / 7",
+      "details": "Personal assist · Hindi, English, Marathi, Gujarati & more",
+      "howToRedeem": [
+        "Locate the RuPay Concierge helpline number on the back of your card or on the RuPay Select portal.",
+        "Call the helpline at any time — service is available 24 hours a day, 7 days a week.",
+        "Describe the assistance you need: travel, dining reservation, or general lifestyle queries.",
+        "The concierge team will confirm details and coordinate your request within the agreed timeframe."
+      ],
+      "termsAndConditions": [
+        "Available 24/7 for all eligible RuPay Select cardholders.",
+        "Covers travel assistance, restaurant reservations, event information, and general lifestyle queries.",
+        "Concierge facilitates bookings and information only. Actual third-party costs are borne by the cardholder.",
+        "PNB reserves the right to modify or discontinue the concierge benefit at any time."
+      ]
+    }
+  ]
+}
