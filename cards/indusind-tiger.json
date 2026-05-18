@@ -1,0 +1,217 @@
+{
+  "id": "indusind-tiger",
+  "name": "Tiger Credit Card",
+  "bank": "IndusInd Bank",
+  "cardType": "Visa Signature",
+  "cardCategory": "Credit",
+  "color": "#e65100",
+  "bgColor": "#fff3e0",
+  "accentColor": "#bf360c",
+  "sections": ["Quarterly", "Half-Yearly", "Yearly", "Always Active"],
+  "benefits": [
+    {
+      "id": "q1",
+      "section": "Quarterly",
+      "frequency": "Quarterly",
+      "name": "Domestic Airport Lounge",
+      "value": "2 visits",
+      "details": "Any participating domestic airport lounge via Visa network",
+      "howToRedeem": [
+        "Visit any participating domestic airport lounge in the Visa lounge access network.",
+        "Present your IndusInd Bank Tiger Visa Signature card at the lounge reception desk along with a valid boarding pass.",
+        "Entry is validated — no separate payment required for complimentary visits.",
+        "Enjoy the lounge. Your visit count is tracked automatically."
+      ],
+      "termsAndConditions": [
+        "Maximum 2 complimentary domestic lounge visits per calendar quarter per card (8 visits per year).",
+        "Valid boarding pass for the same day's travel is mandatory.",
+        "Unused visits do not carry over to the next quarter.",
+        "Valid only at participating lounges in the Visa lounge network. Subject to lounge capacity at the time of visit.",
+        "Additional visits beyond the free quota will be charged at prevailing lounge rates."
+      ]
+    },
+    {
+      "id": "q2",
+      "section": "Quarterly",
+      "frequency": "Quarterly",
+      "name": "Golf Game / Lesson",
+      "value": "1 round or lesson",
+      "details": "1 complimentary golf game or lesson per quarter",
+      "howToRedeem": [
+        "Contact the golf partner or book via the IndusInd Bank credit card portal.",
+        "Advance booking is required — contact the course or partner at least 48 hours in advance.",
+        "Present your Tiger Visa Signature card at the golf venue for validation.",
+        "The complimentary round or lesson will be activated for your visit."
+      ],
+      "termsAndConditions": [
+        "1 complimentary golf round or lesson per calendar quarter per cardholder.",
+        "Advance booking required. Subject to course and slot availability.",
+        "Includes green fees or lesson fee only. Caddy, cart, and equipment rental are charged separately.",
+        "Unused quarterly entitlements do not carry forward to the next quarter."
+      ]
+    },
+    {
+      "id": "h1",
+      "section": "Half-Yearly",
+      "frequency": "Half-Yearly",
+      "name": "BookMyShow Voucher",
+      "value": "₹500",
+      "details": "Movie ticket or events voucher — once every 6 months",
+      "howToRedeem": [
+        "Book on bookmyshow.com or the BookMyShow app.",
+        "Select your movie or event and proceed to payment.",
+        "Pay using your IndusInd Bank Tiger Visa Signature card.",
+        "The ₹500 discount / voucher will be applied automatically at checkout."
+      ],
+      "termsAndConditions": [
+        "One complimentary benefit (up to ₹500) per half-year period per cardholder.",
+        "Valid on movie tickets and eligible events on the BookMyShow platform only.",
+        "Discount is applied when paying with the Tiger Visa Signature card — no separate code needed.",
+        "Cannot be combined with other BookMyShow offers. Unused benefit does not carry over."
+      ],
+      "redeemUrl": "https://in.bookmyshow.com"
+    },
+    {
+      "id": "y1",
+      "section": "Yearly",
+      "frequency": "Yearly",
+      "name": "International Airport Lounge",
+      "value": "2 visits",
+      "details": "Any participating international airport lounge via Priority Pass",
+      "howToRedeem": [
+        "Visit any participating international airport lounge in the Priority Pass network.",
+        "Present your IndusInd Bank Tiger Visa Signature card at the lounge reception desk along with a valid international boarding pass.",
+        "Entry is validated — no separate payment required for complimentary visits.",
+        "Your annual visit count is tracked automatically."
+      ],
+      "termsAndConditions": [
+        "Maximum 2 complimentary international lounge visits per calendar year per card.",
+        "Valid international boarding pass for the same day's travel is mandatory.",
+        "Unused visits do not carry over to the next year.",
+        "Valid only at participating international lounges in the Priority Pass network. Subject to lounge capacity.",
+        "Guest charges and additional visits beyond the free quota will be billed at standard lounge rates."
+      ]
+    },
+    {
+      "id": "y2",
+      "section": "Yearly",
+      "frequency": "Yearly",
+      "name": "OTT Subscriptions Bundle",
+      "value": "3 months free",
+      "details": "19+ apps — Amazon Prime, Jio Hotstar, SonyLIV, Zee5, ALTBalaji & more",
+      "howToRedeem": [
+        "Log in to the IndusInd Bank credit card portal or mobile app.",
+        "Navigate to the OTT benefit section and select your preferred platforms.",
+        "Confirm activation — an OTT bundle activation code will be sent to your registered email within 48 hours.",
+        "Activate the code on the respective OTT platform(s) before the validity date."
+      ],
+      "termsAndConditions": [
+        "3 months of complimentary access to the OTT bundle per calendar year per cardholder.",
+        "Bundle includes 19+ apps: Amazon Prime, Jio Hotstar, SonyLIV, Zee5, ALTBalaji, Ullu, Sanskar, Shemaroo, Chaupal Bhojpuri, Dangal Play, FanCode, DistroTV, ShortsTV, PlayFlix, BhaktiFlix, LionsGate Play, OM TV, Dollywood Play, Stage, Runn TV, VROTT.",
+        "Activation code must be used within 30 days of receipt.",
+        "Unused benefit does not carry forward to the next calendar year."
+      ]
+    },
+    {
+      "id": "a1",
+      "section": "Always Active",
+      "frequency": "Always Active",
+      "name": "Fuel Surcharge Waiver",
+      "value": "1% waiver",
+      "details": "On all fuel transactions between ₹400–₹4,000",
+      "howToRedeem": [
+        "Use your IndusInd Bank Tiger Visa Signature card at any fuel pump.",
+        "The 1% fuel surcharge waiver is applied automatically at the point of transaction.",
+        "No manual redemption or code required."
+      ],
+      "termsAndConditions": [
+        "1% fuel surcharge waiver applicable on transactions between ₹400 and ₹4,000.",
+        "Transactions below ₹400 or above ₹4,000 are not eligible for the waiver.",
+        "Applicable at all petrol stations across India accepting Visa.",
+        "Waiver is applied automatically — no action required."
+      ]
+    },
+    {
+      "id": "a2",
+      "section": "Always Active",
+      "frequency": "Always Active",
+      "name": "Reward Points",
+      "value": "1–6 pts / ₹100",
+      "details": "Tiered accelerator — higher spends earn more points",
+      "howToRedeem": [
+        "Points are auto-credited after each transaction.",
+        "Log in to the IndusInd Bank mobile app or IndusMobile portal to view and redeem points.",
+        "Redeem for cash credit (1 point = ₹0.40) or airmiles (1.2 miles per point).",
+        "Minimum redemption and monthly cash credit cap of ₹5,000 applies."
+      ],
+      "termsAndConditions": [
+        "Base rate: 1 point per ₹100 spent on all categories.",
+        "Tier 1 (₹1L–₹2.5L annual spends): 2 points per ₹100.",
+        "Tier 2 (₹2.5L–₹5L annual spends): 4 points per ₹100.",
+        "Tier 3 (₹5L+ annual spends): 6 points per ₹100.",
+        "Monthly cash redemption capped at ₹5,000.",
+        "Points expire if the card is dormant or closed.",
+        "Reward points effective from Sept 1, 2024 structure."
+      ]
+    },
+    {
+      "id": "a3",
+      "section": "Always Active",
+      "frequency": "Always Active",
+      "name": "Personal Air Accident Insurance",
+      "value": "₹25 Lakh",
+      "details": "Accidental Death or Permanent Total Disability (PTD) · T&C apply",
+      "howToRedeem": [
+        "Ensure your Tiger Visa Signature card was used for at least one transaction within 30 days before the incident.",
+        "In the event of accidental death or PTD, notify IndusInd Bank at 18602677777 or premium.care@indusind.com promptly.",
+        "Submit the claim form with required documents: FIR copy, medical reports, death certificate (if applicable), and card transaction proof.",
+        "The insurance team will review and process the claim within the prescribed timeline."
+      ],
+      "termsAndConditions": [
+        "Cover of ₹25 lakh for accidental death or permanent total disability (PTD) — air accident only.",
+        "Card must have been used for at least one valid transaction within 30 days prior to the incident.",
+        "Claim must be filed promptly after the incident. Pre-existing conditions and self-inflicted injuries are excluded.",
+        "Coverage is valid only while the card account is active and in good standing with IndusInd Bank."
+      ]
+    },
+    {
+      "id": "a4",
+      "section": "Always Active",
+      "frequency": "Always Active",
+      "name": "Zero Liability – Fraud Protection",
+      "value": "Full coverage",
+      "details": "Unauthorized / counterfeit transaction protection · Report within 48 hours",
+      "howToRedeem": [
+        "Report card loss or unauthorized transaction immediately by calling 18602677777.",
+        "IndusInd Bank covers all unauthorized/counterfeit transactions reported within 48 hours of discovering the loss.",
+        "File a written dispute within the bank's prescribed timeline to complete the claim."
+      ],
+      "termsAndConditions": [
+        "Covers unauthorized and counterfeit transactions reported within 48 hours of discovering the loss.",
+        "Cardholder must report the loss immediately — delay beyond 48 hours may void the benefit.",
+        "Coverage is void for transactions made by the cardholder or an authorized person.",
+        "Subject to IndusInd Bank's fraud protection terms and applicable RBI guidelines."
+      ]
+    },
+    {
+      "id": "a5",
+      "section": "Always Active",
+      "frequency": "Always Active",
+      "name": "Concierge Services",
+      "value": "24 / 7",
+      "details": "Travel, dining reservations, event ticketing & lifestyle assistance",
+      "howToRedeem": [
+        "Call the concierge helpline number on the back of your Tiger Visa Signature card.",
+        "Service is available 24 hours a day, 7 days a week.",
+        "Describe your request: travel bookings, restaurant reservations, event ticketing, or general lifestyle queries.",
+        "The concierge team will coordinate and confirm your request within the agreed timeframe."
+      ],
+      "termsAndConditions": [
+        "Available 24/7 for all IndusInd Bank Tiger Visa Signature cardholders.",
+        "Covers travel assistance, restaurant reservations, event information, and general lifestyle queries.",
+        "Concierge facilitates bookings and information only. Actual third-party costs are borne by the cardholder.",
+        "IndusInd Bank reserves the right to modify or discontinue the concierge benefit at any time."
+      ]
+    }
+  ]
+}
